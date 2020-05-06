@@ -23,7 +23,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### Project review
 
-GitHub link https://github.com/apoorvaj1/Udagram-Your-Own-Instagram-on-AWS
+GitHub link https://github.com/Apoorvaj1/apoorv-project
 
 Screenshots to prove: The project was deployed using the AWS Elastic Beanstalk CLI eb init, eb create, and eb deploy commands.
 
